@@ -2,9 +2,9 @@ import random
 
 #create student data list
 student_data = [
-      {"name": "Jacy Yang",
+      {"name": "Joy Yellow",
        "student id": 123456,
-       "email": "jyang456@gmail.com"},
+       "email": "jywllow456@gmail.com"},
       {"name": "Jolly Ranger",
        "student id": 456789,
        "email": "jranger789@gmail.com"}
